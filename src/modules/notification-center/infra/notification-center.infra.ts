@@ -42,7 +42,7 @@ export const useFetch = () => {
         })
         .catch((error) => dispatch(fetchNotificationFailure(error)));
     }
-  }, [page, dispatch]);
+  }, [page]);
 
   return { isPending, notifications, sendQuery, hasMore, error };
 };

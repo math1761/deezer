@@ -11,7 +11,7 @@ const Home = () => {
       sendQuery()
     }
     fetchData();
-}, [sendQuery]);
+}, []);
 
   return (
     <div className="App">
