@@ -1,0 +1,107 @@
+{
+    "notifications": [
+        {
+            "id": 1,
+            "type": "recommandation",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Perfect",
+            "artist": "Ed Sheeran",
+            "expirationDate": "Wed Feb 01 2022 00:00:00 GMT+0000",
+            "description": ""
+        },
+        {
+            "id": 2,
+            "type": "release",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "One more time",
+            "artist": "Daft Punk",
+            "expirationDate": "Wed Feb 02 2022 00:00:00 GMT+0000",
+            "description": ""
+        },
+        {
+            "id": 3,
+            "type": "share",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Hotel california",
+            "artist": "Eagles",
+            "expirationDate": "Wed Feb 05 2022 00:00:00 GMT+0000",
+            "userShare": "Audrey",
+            "description": "Super album !"
+        },
+        {
+            "id": 4,
+            "type": "update",
+            "content": "playlist",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Your song",
+            "artist": "Elton John",
+            "expirationDate": "Wed Feb 01 2022 00:00:00 GMT+0000",
+            "description": "Le nouveau titre d'Elton John vient d'être ajouté à sa playlist"
+        },
+        {
+            "id": 5,
+            "type": "update",
+            "content": "playlist",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Bon entendeur",
+            "artist": "Bon entendeur",
+            "expirationDate": "Wed Feb 01 2022 00:00:00 GMT+0000",
+            "description": "Le nouveau hit de Bon entendeur est sorti!"
+        },
+        {
+            "id": 6,
+            "type": "track",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Angèle",
+            "artist": "Balance ton quoi",
+            "expirationDate": "Wed Feb 05 2022 00:00:00 GMT+0000",
+            "userShare": "",
+            "description": ""
+        },
+        {
+            "id": 7,
+            "type": "release",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "One more time",
+            "artist": "Daft Punk",
+            "expirationDate": "Wed Feb 02 2022 00:00:00 GMT+0000",
+            "description": ""
+        },
+        {
+            "id": 8,
+            "type": "recommandation",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Perfect",
+            "artist": "Ed Sheeran",
+            "expirationDate": "Wed Feb 01 2022 00:00:00 GMT+0000",
+            "description": "Et pourtant c'est vrai... En souvenir d'une époque "
+        },
+        {
+            "id": 9,
+            "type": "recommandation",
+            "content": "album",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Perfect",
+            "artist": "Ed Sheeran",
+            "expirationDate": "Wed Feb 01 2022 00:00:00 GMT+0000",
+            "description": "Et pourtant c'est vrai... En souvenir d'une époque "
+        },
+        {
+            "id": 10,
+            "type": "share",
+            "content": "podcast",
+            "thumbnail": "https://placekitten.com/50/50",
+            "song": "Comment grandir professionnellement",
+            "artist": "RFM",
+            "expirationDate": "Wed Oct 20 2021 00:00:00 GMT+0000",
+            "userShare": "Mathieu",
+            "description": "Tiens ça pourrait t'aider !"
+        }
+    ]
+}
